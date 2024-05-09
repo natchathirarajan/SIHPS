@@ -24,13 +24,18 @@ The application will also include educational pop-ups that provide information a
 ![alt text](ewaste.jpg)
 ## Use Cases
 
-The E-Waste Facility Locator is created by the Ministry of Environment and uses a variety of technologies, including React or Vue.js for the front-end, Python or Java with Django or Spring Boot for the back-end, PostgreSQL or MySQL for the database, and a geolocation API for determining the user's location and searching for nearby e-waste facilities. The website also uses custom implementations for educational pop-ups and the credit point system, ensuring a seamless user experience.
-![alt text](<flowchart e-waste.png>)
+The E-Waste Facility Locator is created by the Ministry of Environment and uses a variety of technologies, including React or Vue.js for the front-end, Python or Java with Django or Spring Boot for the back-end, PostgreSQL or MySQL for the database, and a geolocation API for determining the user's location and searching for nearby e-waste facilities. The website also uses custom implementations for educational pop-ups and the credit point system ensuring a seamless user experience.
+
+
 
 ## Technology Stack
 For the front-end, you could use a modern JavaScript framework like React or Vue.js to build the user interface. These frameworks are popular, well-documented, and have a large community of developers who can provide support and resources.
 
 For the back-end, you could use a language like Python or Java with a web framework like Django or Spring Boot. These technologies are widely used in enterprise applications and have many libraries
+
+## Flowchart
+
+![alt text](<flowchart e-waste.png>)
 
 ## Dependencies
 
